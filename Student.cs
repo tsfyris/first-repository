@@ -8,5 +8,6 @@ namespace Demo_Website
         public string FirstName { get; set; }
         public string LastName {get; set; }
         public DateTime start_Date{get; set;}
+        public double Height { get; set;}
     }
 }
