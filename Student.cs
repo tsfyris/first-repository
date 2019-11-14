@@ -7,6 +7,6 @@ namespace Demo_Website
         public int Id { get; set;}
         public string FirstName { get; set; }
         public string LastName {get; set; }
-        public DateTime start_Date{get; set;}
+        public DateTime start{get; set;}
     }
 }
